@@ -1,7 +1,5 @@
 module.exports = {
-
-  test(req, res) {
-    return res.send({data: 1});
-  },
-
+  //
+  // edit => save => crash
+  //
 };
